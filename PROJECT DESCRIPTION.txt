@@ -1,0 +1,35 @@
+PROJECT DESCRIPTION
+
+As seen in the course in the graph theory section, and applying the creativity of the
+group, develop a programmed solution to solve the following complex problem
+associated with graphs:
+
+“You are organizing a party for your friends, but since your friends don't all know each other
+each other, you are worried that some of them will not enjoy the party. To avoid this, you decide to invite some friends of your friends as well. But who should you invite for the
+party be fantastic?
+
+Fortunately, you have data on all the friendships of your friends and their friends. In
+graph theory terminology, you have a subset G of the social graph, whose vertices
+(or nodes) correspond to your friends and their friends (excluding yourself), and the edges
+of this graph indicate mutual friendships. On the other hand, it has been possible to obtain
+exact estimates of the amount of food that each person in G will consume during the
+party if invited.
+
+You want to choose a series of guests of G. This set of people must include everyone
+your friends, and the subgraph of G formed by the guests must be connected (there must be no
+people who are not friends of other people who are also invited). You hope that
+this ensures that all your friends will enjoy the party, because any two
+They will have something to talk about...
+
+In order to save money, you want to choose the set of guests so that the
+total amount of food needed is as small as possible. If there were several ways
+if you get it, you would prefer one with as few people as possible.
+The people (the nodes in the subset G of the social graph) are numbered from 0 to N-1.
+
+Also, for added convenience, your friends are numbered 0 through F-1, where F is the
+number of friends you want to invite. You can also assume that G is connected.
+
+Note (once again) that you will not be represented in G.”
+
+Retrieved from https://thenextweb.com/news/think-you-can-hack-it-heres-one-of-theproblems-
+from-last-years-facebook-hacker-cup.
