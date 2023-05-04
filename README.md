@@ -1,5 +1,5 @@
 # Friends-party
-Java - Friends party (University project - first year)
+Java - Friends party
 
 In this project you can see a solution to a complex problem associated with graphs using vectors. If you want to see the description of the problem, you can download it in the files section.
 
